@@ -1,0 +1,1 @@
+import{d as f,T as i,w as o,M as p,h as c,q as d}from"./runtime.DTVI1pbe.js";function T(s,t,...n){var e=s,a,r;f(()=>{a!==(a=t())&&(r&&(p(r),r=null),a&&(r=o(()=>a(e,...n))))},i),c&&(e=d)}export{T as s};

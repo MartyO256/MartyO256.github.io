@@ -1,0 +1,1 @@
+const a={title:"Evaluation of Proposition AST in OCaml",standalone:!0,tags:["Functional programming","OCaml","Tail-recursive","Recursion","Map","Evaluation","Abstract syntax tree"]};export{a as default};

@@ -1,0 +1,1 @@
+const e={title:"Preuve des identités trigonométriques",description:"Les identités trigonométriques permettent de manipuler des expressions trigonométriques pour la résolution d'équations.",publicationDate:new Date(151632e7),latestModificationDate:new Date(151632e7),tags:["Mathématiques","5e secondaire SN","Calcul différentiel","Trigonométrie"]};export{e as default};

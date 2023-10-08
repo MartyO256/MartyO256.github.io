@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://martyo256.github.io/sitemap.xml
