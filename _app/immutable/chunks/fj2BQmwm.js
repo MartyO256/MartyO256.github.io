@@ -1,0 +1,1 @@
+const e={title:"Les fonctions réciproques",description:"La réciprocité des fonctions est à la base de la résolution d'équations algébriques.",publicationDate:new Date(15134688e5),latestModificationDate:new Date(15134688e5),tags:["Mathématiques","5e secondaire SN","Fonctions","Théorie des ensembles"]};export{e as default};

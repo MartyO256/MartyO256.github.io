@@ -1,0 +1,1 @@
+import{d as c,h as r,j as s,Q as i,v as h,w as d,o as p}from"./lpCv0clr.js";function u(o,t,f){r&&s();var n=o,a,e;c(()=>{a!==(a=t())&&(e&&(d(e),e=null),a&&(e=h(()=>f(n,a))))},i),r&&(n=p)}export{u as c};

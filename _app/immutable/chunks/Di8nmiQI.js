@@ -1,0 +1,1 @@
+const e={title:"Déterminer l'équation d'une ellipse à l'aide d'un de ses axes et un point sur sa courbe",standalone:!0,tags:["Mathématiques","5e secondaire SN","Sections Coniques","Ellipse"]};export{e as default};

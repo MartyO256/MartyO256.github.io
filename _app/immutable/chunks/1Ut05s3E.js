@@ -1,0 +1,1 @@
+const e={title:"Passage de la forme canonique à la forme générale de l'équation d'un cercle",standalone:!0,tags:["Mathématiques","5e secondaire SN","Sections coniques","Cercle"]};export{e as default};

@@ -1,0 +1,1 @@
+const e={title:"Passer de la forme générale à la forme canonique de l'équation d'une ellipse",standalone:!0,tags:["Mathématiques","5e secondaire SN","Sections coniques","Ellipse"]};export{e as default};
